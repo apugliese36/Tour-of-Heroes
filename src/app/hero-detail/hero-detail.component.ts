@@ -1,4 +1,3 @@
-import { Component, OnInit } from '@angular/core';
 import { Hero } from '../hero';
 import { Component, OnInit, Input } from '@angular/core';
 
